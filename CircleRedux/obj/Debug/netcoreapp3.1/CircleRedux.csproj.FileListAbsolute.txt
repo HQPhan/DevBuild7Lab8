@@ -1,0 +1,14 @@
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\bin\Debug\netcoreapp3.1\CircleRedux.exe
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\bin\Debug\netcoreapp3.1\CircleRedux.deps.json
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\bin\Debug\netcoreapp3.1\CircleRedux.runtimeconfig.json
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\bin\Debug\netcoreapp3.1\CircleRedux.runtimeconfig.dev.json
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\bin\Debug\netcoreapp3.1\CircleRedux.dll
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\bin\Debug\netcoreapp3.1\CircleRedux.pdb
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.csproj.AssemblyReference.cache
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.AssemblyInfoInputs.cache
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.AssemblyInfo.cs
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.csproj.CoreCompileInputs.cache
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.dll
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.pdb
+C:\Users\HPHAN1\devbuild\LAB7\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.genruntimeconfig.cache

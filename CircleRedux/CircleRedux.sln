@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleRedux", "CircleRedux.csproj", "{2FD442AA-7C0C-431C-B053-153F164A2E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD442AA-7C0C-431C-B053-153F164A2E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD442AA-7C0C-431C-B053-153F164A2E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD442AA-7C0C-431C-B053-153F164A2E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD442AA-7C0C-431C-B053-153F164A2E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F938DF6-9336-4FB2-9BA4-5FBFBE430851}
+	EndGlobalSection
+EndGlobal
