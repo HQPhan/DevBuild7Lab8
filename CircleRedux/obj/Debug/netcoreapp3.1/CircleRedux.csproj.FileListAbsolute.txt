@@ -25,3 +25,4 @@ C:\Users\jmitchell11\OneDrive - Knex\repos\DevBuild7Lab8\CircleRedux\obj\Debug\n
 C:\Users\jmitchell11\OneDrive - Knex\repos\DevBuild7Lab8\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.dll
 C:\Users\jmitchell11\OneDrive - Knex\repos\DevBuild7Lab8\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.pdb
 C:\Users\jmitchell11\OneDrive - Knex\repos\DevBuild7Lab8\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.genruntimeconfig.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\DevBuild7Lab8\CircleRedux\obj\Debug\netcoreapp3.1\CircleRedux.csproj.AssemblyReference.cache
