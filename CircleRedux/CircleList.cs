@@ -8,39 +8,30 @@ namespace CircleRedux
     {
         //The purpose of this class is to add the circles to the circle list
         public List<Circle> Circles = new List<Circle>();
-
+        
         public CircleList()
         {
-
-            while (true)
-            {
-                Console.WriteLine("Enter Radius: ");
-                double r = double.Parse(Console.ReadLine());
-                if (r > 0)
-                {
-                    Circle c = new Circle(r);
-                    Console.WriteLine(c);
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine("Please input a number greater than 0");
-                }
-            }
-
-            //Attempting to create loop to store circles in a list and display how many circles user input
-            //int count = 0;
-            //for (int i = 0; i < Circles.Count; i++)
-            //{                
-            //    Circles.Add(new Circle(c.Radius));
-            //    Console.WriteLine();
-            //    count++;
-            //}
-
-
-
+            
         }
-        
+        public int GetRadius()
+        {
+            Console.Write("Please enter a radius:");
+            if (int.TryParse(Console.ReadLine(), out int result))
+            {
+                return result;                
+            } 
+            else
+            {
+                Console.WriteLine("I didn't understand that, please try again");
+                return GetRadius();
+            }
+        }
+        public Circle DrawCircles(int num)
+        {
+            Circle c = new Circle(num);
+            Circles.Add(c); //Add to current Circles List. 
+            return c;
+        }
         //Asking user if they want to continue
         public bool Continue()
         {

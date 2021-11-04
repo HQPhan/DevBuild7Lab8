@@ -8,23 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\HPHAN1\\.nuget\\packages\\": {},
+    "C:\\Users\\jmitchell11\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HPHAN1\\devbuild\\LAB7\\CircleRedux\\CircleRedux.csproj",
+      "projectUniqueName": "C:\\Users\\jmitchell11\\OneDrive - Knex\\repos\\DevBuild7Lab8\\CircleRedux\\CircleRedux.csproj",
       "projectName": "CircleRedux",
-      "projectPath": "C:\\Users\\HPHAN1\\devbuild\\LAB7\\CircleRedux\\CircleRedux.csproj",
-      "packagesPath": "C:\\Users\\HPHAN1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HPHAN1\\devbuild\\LAB7\\CircleRedux\\obj\\",
+      "projectPath": "C:\\Users\\jmitchell11\\OneDrive - Knex\\repos\\DevBuild7Lab8\\CircleRedux\\CircleRedux.csproj",
+      "packagesPath": "C:\\Users\\jmitchell11\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jmitchell11\\OneDrive - Knex\\repos\\DevBuild7Lab8\\CircleRedux\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\HPHAN1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jmitchell11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
